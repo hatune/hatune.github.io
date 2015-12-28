@@ -1,0 +1,16 @@
+header{
+  margin-bottom: 20px;
+}
+section{
+  margin: 40px 0;
+}
+section>.pure-g{
+  margin: 0 auto;
+  max-width:  800px;
+  width: 98%;
+}
+@media screen and (min-width: 35.5em){
+  section>.pure-g{
+    width: 100%;
+  }
+}
