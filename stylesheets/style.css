@@ -22,3 +22,9 @@ a:hover, a:active{
   color: #29B6F6;
   text-decoration: underline;
 }
+.pure-button:hover, .pure-button:active{
+  text-decoration: none;
+}
+.pure-button-primary:hover, .pure-button-primary:active{
+  color: #fff;
+}
