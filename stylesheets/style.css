@@ -14,3 +14,11 @@ section>.pure-g{
     width: 100%;
   }
 }
+a{
+  color: #0288D1;
+  text-decoration: none
+}
+a:hover, a:active{
+  color: #29B6F6;
+  text-decoration: underline;
+}
